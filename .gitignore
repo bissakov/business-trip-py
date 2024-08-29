@@ -1,0 +1,6 @@
+venv/
+.env*
+chromedriver.exe
+data/reports/orders_*
+data/reports/*.xlsx
+
